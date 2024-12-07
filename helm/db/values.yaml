@@ -4,6 +4,7 @@ db:
     id: C0905643
     app: db
     env: dev
+    name: madhuri
     stack: wordpress
   image:
     repository: mariadb
