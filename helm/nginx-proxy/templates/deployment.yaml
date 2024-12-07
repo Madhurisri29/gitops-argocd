@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx-proxy
-        image: hibajameel/nginx-proxy:latest
+        image: nginx-proxy:latest
         ports:
         - containerPort: 80
 

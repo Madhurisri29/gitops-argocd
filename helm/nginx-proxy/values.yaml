@@ -1,6 +1,6 @@
 # Docker image settings
 image:
-  repository: gcr.io/modular-edge-443800-k3/custom-nginx
+  repository: nginx
   tag: latest
   pullPolicy: IfNotPresent
 
